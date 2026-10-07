@@ -234,7 +234,7 @@ const restartCard = () => {
                 Birthday
               </h1>
 
-              <p className="subtitle">A little song-sized gift, from your cousin</p>
+              <p className="subtitle">A little song-sized gift, from my cousin</p>
 
               <button
                 onClick={(e) => {
