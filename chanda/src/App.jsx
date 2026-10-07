@@ -51,7 +51,7 @@ Today is all about you.`,
     title: "Wishes For Your Year 💙",
     items: [
       ["🎤", "More songs, and bigger stages"],
-      ["🌊", "Days as calm and blue as your favourite colour"],
+      ["🖤", "Days as bold and stylish as black, your favourite colour"],
       ["🫶", "More family time, so we meet a lot more"],
     ],
   },
